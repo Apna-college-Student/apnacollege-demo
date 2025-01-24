@@ -1,4 +1,4 @@
  # ApnaCollege-Demo
 This is my first Git Repository
 <br>
-Author - Aditya Tiwari
+Author - Aditya Tiwari ( Apna College)
